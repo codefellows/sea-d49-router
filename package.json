@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/codefellows/sea-d49-router/issues"
   },
-  "homepage": "https://github.com/codefellows/sea-d49-router#readme"
+  "homepage": "https://github.com/codefellows/sea-d49-router#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.3.2"
+  }
 }
